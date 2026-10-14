@@ -1,5 +1,5 @@
 ﻿import streamlit as st
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 st.set_page_config(page_title="AI Research Agent", page_icon="🔬", layout="wide")
 
